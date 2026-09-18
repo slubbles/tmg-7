@@ -1,0 +1,70 @@
+{
+  "lead_id": "9e670a8c792047968a98eaadbe98860a",
+  "brief": {
+    "schema": "genesis_brief/v1",
+    "contact": {
+      "name": "Cesar Salem",
+      "email": "cesar@thelamedia.com",
+      "phone": null,
+      "company": "TMG"
+    },
+    "existing_site": {
+      "has_site": true,
+      "url": "https://tmg.agency/",
+      "preference": "scratch"
+    },
+    "brand": {
+      "name": "TMG",
+      "tagline": "Elite Systems for the Most Demanding Campaigns",
+      "about": "TMG Logo\nTMG\nGet Started\n\n\n\nElite\nSystems\nfor\nthe\nMost\nDemanding\nCampaigns\nAdvertising systems connected by intelligence infrastructure\n\nScroll\nThe New Standard\nWe believe great advertising is built on judgment, data, and discipline.\nIn an era of noise, precision is the only currency. TMG combines strategy, creative, media buying, analytics, automation, and intelligence backbones to help brands spend smarter and grow with confidence.\n\nOur platforms power AI-driven marketing intelligence that transforms brands across healthcare, finance, technology, real estate, and energy.\nOur Platforms\nScroll to explore\n/01\nVelocity\nPaid media deployment and optimization support for approved campaign plans: budget movement, bid adjustments, creative rotation, and performance feedback.\n\nMedia Deployment\nBudget Movement\nPerformance Feedback\n/02\nCatalyst\nEnd-to-end marketing operations automation, from lead nurturing and customer journey orchestration to content distribution and attribution modeling.\n\nOps Automation\nJourney Orchestration\nAttribution\n/03\nGenesis\nCreative and campaign support layer for turning strategy into structured briefs, tests, variants, reporting, and repeatable execution.\n\nCreative Ops\nTesting\nExecution\n/04\nOracle\nMarket and performance intelligence for reading customer behavior, competitive signals, and campaign data before making the next media decision.\n\nMarket Signals\nForecasting\nDecision Support\nResults That\nRedefine Markets\nOur advertising strategies, paired with our intelligence platform, help clients grow across healthcare, finance, technology, real estate, and energy. These are real results from real clients.\n\n0+\nClients Served\nCompanies trusting TMG to drive growth\n\n0+\nCampaigns Launched\nData-driven campaigns across industries\n\n0x\nAvg ROAS\nAverage return on ad spend across clients\n\n0%\nCost Reduction\nAverage decrease in customer acquisition cost\n\n0+\nIndustries\nHealthcare, finance, real estate, energy, and more\n\n0%\nLead Growth\nBest-in-class result across clients\n\nTrusted by 600+ companies worldwide\n\nForcepoint\nJecobra Aviation\nAuntie Anne's\nQualico\nNovak Capital\nAdvanced Medical Trials\nRe:start\nThe Previvor\nThryve Care\nB&E Resources\nWhat our clients say about TMG\nMedical Trials Company\nTony, CEO\n\n\"TMG developed a marketing campaign and a scheduling process for acquiring patients that was so successful, we ended up as the top producing site in the country for our first clinical trial. Many studies later, and not only are their efforts still producing stellar results in an ever changing landscape, but they have the same dedication and focus on results that an equity owner would possess. I can't say enough good things about TMG. Don't miss an opportunity to work with their amazing talent.\"\nFlowTex Energy\nBeau, President\n\n\"After launching on September 13, TMG generated over 450 qualified leads within 6 weeks and converted 11 into investing partners, resulting in nearly $1,000,000 in new funding. The total cost was substantially less than our prior agency and delivered an exceptionally higher return on investment.\"\nFintech Startup\nCarl, CMO\n\n\"We engaged 5 different digital marketing agencies whom promised a lot, but failed to deliver. By the end of my first meeting with TMG, I was impressed with their depth of knowledge and subject matter expertise. TMG's approach to business can be expressed in 2 words, trusted partnership. We were absolutely delighted with the business results TMG helped us achieve.\"\nThe Previvor Foundation\nAllyn, Founder\n\n\"TMG created an intuitive, professional platform that revolutionized how we serve young women affected by breast cancer. Their work helped increase fundraising, strengthen our professional presence, and expand our reach to support more women who need these resources.\"\nSchedule Consultation\n\u2192\nView Case Studies\n\u2192\n\u00a9 2026 Thela Media Group\nAdvertising strategy, media, creative, and measurement built for measurable growth.\npartners@tmg.agency\nSERVICES\nAI-Powered Strategy\nMarketing Intelligence\nCreative Development\nBrand Architecture\nPerformance Media\nMarketing Attribution\nDigital Transformation\nContent Strategy\nCustomer Analytics\nMarketing Automation\nFractional CMO Services\nINDUSTRIES\nHealthcare & Life Sciences\nFinancial Services\nTechnology & SaaS\nReal Estate\nEnergy & Utilities\nRetail & E-Commerce\nManufacturing\nProfessional Services\nEducation\nNon-Profit\nCAPABILITIES\nAI Infrastructure\nMachine Learning Models\nPredictive Analytics\nData Science\nCRM Integration\nAPI Development\nReal-Time Optimization\nA/B Testing Platform\nRESOURCES\nCase Studies\nIndustry Insights\nGrowth Framework\nMarketing Blog\nPrivacy Policy\nTerms of Service\nContact Us"
+    },
+    "reference_urls": [
+      "https://superpower.com",
+      "https://resetwellness.framer.website"
+    ],
+    "reference_source": "look_library",
+    "styles": [
+      "classic",
+      "modern",
+      "playful"
+    ],
+    "style_notes": null,
+    "colors": {
+      "mode": "designer_choose",
+      "palette": null
+    },
+    "scope": "multipage",
+    "pages": [
+      "/",
+      "/contact",
+      "/platforms/velocity-ai",
+      "/platforms/catalyst",
+      "/platforms/genesis",
+      "/platforms/oracle",
+      "/case-studies",
+      "/services/ai-powered-strategy",
+      "/services/marketing-intelligence",
+      "/services/creative-development",
+      "/services/brand-architecture",
+      "/services/performance-media",
+      "/services/marketing-attribution",
+      "/services/digital-transformation",
+      "/services/content-strategy",
+      "/services/customer-analytics"
+    ],
+    "consent": true,
+    "reference_looks": [
+      {
+        "id": "ref-superpower",
+        "label": "Superpower",
+        "preview_url": "https://superpower.com"
+      },
+      {
+        "id": "ref-resetwellness",
+        "label": "Reset Wellness",
+        "preview_url": "https://resetwellness.framer.website"
+      }
+    ],
+    "pages_source": "existing_site_nav"
+  }
+}
